@@ -1,7 +1,6 @@
 # Local Repo
 
-1. Install git
-    git-scm.com
+1. Install git: [Git website](https://git-scm.com)
 2. git bash
 3. Configure git:
 
