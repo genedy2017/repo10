@@ -44,3 +44,29 @@
 5. Define remote repo:
     `git remote add origin git@github.com:username/repo-name.git`
 6. `git push -u origin master`
+
+---
+
+# Adding a team member
+
+1. go to repo settings on github
+2. Click *Collaborators*
+3. Add username of new team member
+4. new member should accept invitation
+5. new member should create a private/public key pair and add public key to his github account.
+6. create a new working directory
+7. enter directory and run command:
+
+    ```
+    git clone repo-url .
+    ```
+
+8. start editing files
+9. `git commit -a -m "New message"`
+10. `git push -u origin master`
+
+---
+
+# Other team members
+
+`git pull`
