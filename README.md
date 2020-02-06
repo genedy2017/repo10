@@ -5,5 +5,7 @@ This is an example file for showing what Git can do.
 Working on Feature 001
 Finshed Feature 001
 
+Working on feature 2!
+Adding some final touches ...
 Working on Feature 003
 More work!
