@@ -6,3 +6,4 @@ Working on Feature 001
 Finshed Feature 001
 
 Working on feature 2!
+Adding some final touches ...
